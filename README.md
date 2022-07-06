@@ -2,7 +2,12 @@
 
 ![UMANG DOBHAL](https://user-images.githubusercontent.com/82695171/177087470-91785900-44f7-419b-a1c6-9bd0d3942036.jpg)
 
-Soon-to-be Computer Science graduate, I am eager to continue exploring the inspirng, innovative field of Game Development, under the category of Game Programming. To pursue my dream job, I am learning Unity Engine and C# by recreating classic arcade style games like Pacman and many more simple 2D games.
+## ABOUT ME
+* 🧑‍🎓 B.Tech CSE student from New Delhi.
+* 🎮 Interested in game develpment.
+* 👾 Loves to play video games.
+* 📚 I am a fast learner.
+* 📽️ Love to edit gaming clips using DaVinci Resolve
 
 ## SKILLS
 * 🧑‍💻 Python
@@ -10,3 +15,6 @@ Soon-to-be Computer Science graduate, I am eager to continue exploring the inspi
 * 💻 HTML / CSS
 * 🎮 Unity Engine
 * 🎥 DaVinci Resolve
+
+## MY STATS
+![Umang's github stats](https://github-readme-stats.vercel.app/api?username=umangdobhal&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umangdobhal)](https://github.com/umangdobhal/github-readme-stats&theme=tokyonight)
