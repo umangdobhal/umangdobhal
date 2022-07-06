@@ -17,4 +17,4 @@
 * 🎥 DaVinci Resolve
 
 ## MY STATS
-![Umang's github stats](https://github-readme-stats.vercel.app/api?username=umangdobhal&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umangdobhal)](https://github.com/umangdobhal/github-readme-stats&theme=tokyonight)
+![Umang's github stats](https://github-readme-stats.vercel.app/api?username=umangdobhal&theme=radical)
