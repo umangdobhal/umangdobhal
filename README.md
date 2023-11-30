@@ -8,7 +8,7 @@
 * 🎮 Interested in Game Develpment.
 * 👾 Loves to play video games.
 * 📚 I am a fast learner.
-* 📽️ Love to edit gaming clips using DaVinci Resolve
+* 📽️ Love to video using DaVinci Resolve
 
 ## SKILLS
 * 🧑‍💻 Python
@@ -16,6 +16,7 @@
 * 👨‍💻 Selenium
 * 🧑‍💻 C++ / C#
 * 📑 Tableau
+* 📑 Power BI
 * 💻 HTML / CSS
 * 🎮 Unity Engine
 * 🎥 DaVinci Resolve
