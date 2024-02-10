@@ -1,6 +1,6 @@
 ## Hi there 👋,
 
-![UMANG DOBHAL](https://user-images.githubusercontent.com/82695171/177087470-91785900-44f7-419b-a1c6-9bd0d3942036.jpg)
+![UMANG DOBHAL]((https://github.com/umangdobhal/umangdobhal/assets/82695171/3cdbd533-1841-49ca-89de-0d9afecc035b))
 
 ## ABOUT ME
 * 🧑‍🎓 B.Tech CSE student from New Delhi.
