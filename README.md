@@ -1,6 +1,6 @@
 ## Hi there 👋,
 
-![UMANG DOBHAL]![LinkedIn Banner](https://github.com/umangdobhal/umangdobhal/assets/82695171/97f61506-5f15-4550-8651-a04b978b19ef)
+![LinkedIn Banner](https://github.com/umangdobhal/umangdobhal/assets/82695171/97f61506-5f15-4550-8651-a04b978b19ef)
 
 
 ## ABOUT ME
@@ -9,7 +9,7 @@
 * 🎮 Interested in Game Develpment.
 * 👾 Loves to play video games.
 * 📚 I am a fast learner.
-* 📽️ Love to video using DaVinci Resolve
+* 📽️ Love to edit video using DaVinci Resolve
 
 ## SKILLS
 * 🧑‍💻 Python
