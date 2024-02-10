@@ -1,6 +1,7 @@
 ## Hi there 👋,
 
-![UMANG DOBHAL]((https://github.com/umangdobhal/umangdobhal/assets/82695171/3cdbd533-1841-49ca-89de-0d9afecc035b))
+![UMANG DOBHAL]![LinkedIn Banner](https://github.com/umangdobhal/umangdobhal/assets/82695171/97f61506-5f15-4550-8651-a04b978b19ef)
+
 
 ## ABOUT ME
 * 🧑‍🎓 B.Tech CSE student from New Delhi.
