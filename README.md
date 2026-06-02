@@ -5,9 +5,8 @@
 
 # Umang Dobhal
 
-**ML Engineer · Diffusion Models · Sensor AI · Time-Series**  
-M.Sc. Human Intelligence Systems @ Kyushu Institute of Technology  
-Advised by Prof. Sozo Inoue · Available October 2026
+**ML Engineer · Diffusion Models · Sensor AI · Time-Series · Human Activity Recognition**  
+M.Sc. Human Intelligence Systems @ Kyushu Institute of Technology
 
 ---
 
@@ -41,12 +40,12 @@ improve downstream classifiers.
 
 ## Publications
 
-| Year | Title | Venue |
-|------|-------|-------|
-| 2026 | Extending Tabular DDPM for Time-Series Data Generation | IJABC (ABC 2026) |
-| 2025 | Two-Stage Reservoir Computing for HAR (WEAR Challenge) | ACM UbiComp HASCA 2025 |
-| 2025 | Sample Selection Strategy for Synthetic Gesture Data | UCAmI 2025 · Springer |
-| 2024 | Synthetic Skeleton Data Generation Using LLM for Nurse HAR | ACM UbiComp 2024 |
+| Year | Title | Venue | DOI / Link |
+|------|--------|--------|------------|
+| 2026 | Extending Tabular DDPM for Time-Series Data Generation | IJABC (ABC 2026) | [Paper](https://www.jstage.jst.go.jp/article/ijabc/2026/1/2026_139/_article/-char/ja) |
+| 2025 | Two-Stage Reservoir Computing for HAR (WEAR Challenge) | ACM UbiComp HASCA 2025 | [Paper](https://dl.acm.org/doi/10.1145/3714394.3756190) |
+| 2025 | Sample Selection Strategy for Synthetic Gesture Data | UCAmI 2025 (Springer) | [Paper](https://link.springer.com/chapter/10.1007/978-3-032-16995-2_21) |
+| 2024 | Synthetic Skeleton Data Generation Using LLM for Nurse HAR | ACM UbiComp 2024 | [Paper](https://dl.acm.org/doi/10.1145/3675094.3678445) |
 
 ---
 
