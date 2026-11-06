@@ -1,6 +1,7 @@
 ## Hi there 👋,
 
-![LinkedIn Banner](https://github.com/umangdobhal/umangdobhal/assets/82695171/97f61506-5f15-4550-8651-a04b978b19ef)
+<img width="3168" height="792" alt="LinkedIn banner 1584×396@2x" src="https://github.com/user-attachments/assets/969a8981-6ef6-488b-bfd6-886a3687d57a" />
+
 
 
 # Umang Dobhal
